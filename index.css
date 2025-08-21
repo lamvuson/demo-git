@@ -1,0 +1,23 @@
+p {
+  font-size: 18px;
+  color: #333;
+  text-align: center;
+  margin-top: 50px;
+}
+
+button {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4CAF50; /* Màu xanh lá */
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #45a049; /* Màu khi hover */
+}
